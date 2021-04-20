@@ -1,13 +1,21 @@
 # Hyperion
-Our platform disaggregates the FPGAs from the server nodes by attaching them to the data center network—instead of the traditional PCIe bus. This approach turns the FPGAs into peer processors ready to be deployed at a large scale independently of the number of CPUs.
+Heterogenius reconfigurable computing.
 
 ## Sections
-*  AAA
-*  BBB
+* [Accelerated functions](#accelerated-functions)
+* [APIs](#apis)
+* [Documentation](#documentation)
+* [Examples](#examples)
+* [Guidelines](#guidelines)
 
 ## Accelerated functions
+Each accelerated function created or verified by Aureole comes in a separate repository. Just clone it to your working space to be able to use it in your accelerated applications.
 
-## API documentation
+* [aes-enc](https://github.com/aureoleag/hyperion-aes-enc)
+
+## APIs
+
+## Documentation
 
 ## Examples
 
