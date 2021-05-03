@@ -1,5 +1,5 @@
 # Hyperion
-Heterogenius reconfigurable computing.
+Hetero*genius* reconfigurable computing.
 
 ## Sections
 * [Accelerated functions](#accelerated-functions)
